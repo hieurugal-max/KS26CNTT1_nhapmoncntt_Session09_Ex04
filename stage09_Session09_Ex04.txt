@@ -1,0 +1,8 @@
+Phần 1. Phân tích bài toán
+Markdown có cú pháp ngắn gọn hơn HTML nên thường sử dụng ít ký tự và Token hơn khi biểu diễn cùng một nội dung. Nhờ đó, AI có thể giảm lượng dữ liệu cần xử lý, tiết kiệm chi phí và có khả năng phản hồi nhanh hơn.
+Tuy nhiên, độ chính xác của AI còn phụ thuộc vào nội dung đầu vào, không chỉ riêng định dạng Markdown hay HTML.
+Phần 2. So sánh và đánh giá
+1. Markdown
+Markdown có cú pháp đơn giản, dễ đọc và dễ chỉnh sửa. Ví dụ, viết tiêu đề bằng ## Tiêu đề và in đậm bằng **Văn bản**. Cách viết này ngắn gọn, phù hợp để tạo tài liệu README trên GitHub.
+2. HTML
+HTML sử dụng các thẻ mở và đóng để định dạng nội dung. Ví dụ, viết tiêu đề bằng <h2>Tiêu đề</h2> và in đậm bằng <strong>Văn bản</strong>. Cách viết này dài hơn nhưng cho phép kiểm soát cấu trúc trang web chi tiết hơn
